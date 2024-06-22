@@ -3,7 +3,7 @@ readme_content = """
 
 ## Auteurs
 
-Ce projet a été réalisé :
+Ce projet a été réalisé par :
 
 - [Barfoud Fatima Zohra]
 - [Bouchkara Ikrame]
