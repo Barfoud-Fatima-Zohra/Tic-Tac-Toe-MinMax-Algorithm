@@ -1,4 +1,4 @@
-readme_content = """
+
 # Tic-Tac-Toe avec Pygame et Algorithme Minimax
 
 ## Auteurs
